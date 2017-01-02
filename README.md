@@ -1,8 +1,8 @@
 # YaleLock
-Driver for Yale Real Living Z-Wave pushbutton smartlock. Supports remote lock and unlock, notification of who has entered or left (via keypad userID), notification of a manual lock or unlock, and tamper alarms. Certain lock settings can be updated via the Devices page in Homey; currently the audio mode (whether the lock beeps or not), the maximum number of tries before a user is locked out, the lockout time, and the operating mode (whether privacy mode is enabled).
+Driver for Yale Real Living Z-Wave push button smartlock. Supports remote lock and unlock, notification of who has entered or left (via keypad userID), notification of a manual lock or unlock, and tamper alarms. Certain lock settings can be updated via the Devices page in Homey; currently the audio mode (whether the lock beeps or not), the maximum number of tries before a user is locked out, the lockout time, and the operating mode (whether privacy mode is enabled).
 
 ## Compatibility
-Currently only tested with YRD110-ZW-619 with the following Z-Wave attributes:
+Currently only tested with the Yale push button deadbolt (YRD110-ZW-619) with the following Z-Wave attributes:
 
 * manufacturerId: 297
 * productTypeId: 4

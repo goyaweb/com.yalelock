@@ -159,7 +159,7 @@
 	    {
 		    "id": "yalelock_v1",
 		    "name": {
-			    "en": "Yale Lock"
+			    "en": "Yale Push Button Deadbolt"
 		    },
 			"images": {
 				"large": "/drivers/yalelock_v1/assets/images/large.jpg",
