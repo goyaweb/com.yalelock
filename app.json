@@ -169,8 +169,8 @@
 		    "capabilities": [ "locked", "alarm_keypad_unlocked", "alarm_manual_unlocked", "alarm_keypad_locked", "alarm_manual_locked", "alarm_tamper" ],
 		    "zwave": {
 			    "manufacturerId": 297,
-			    "productTypeId": 4,
-			    "productId": 2048,
+			    "productTypeId": [2,4,6],
+			    "productId": [0,2048],
 			    "requireSecure": true,
 			    "learnmode": {
 				    "image": "/drivers/yalelock_v1/assets/learnmode.svg",
